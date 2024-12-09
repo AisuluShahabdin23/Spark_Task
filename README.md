@@ -16,7 +16,7 @@ Ensure that the dataset for restaurants and weather data is available in the cor
 (as mentioned in the code). The restaurant data should be in CSV format, and weather data 
 should be in Parquet format.
 
-# Code Overview
+# Code Overview:
 A Spark session is created to process the data using pyspark.sql.SparkSession.
 
 # Reading Data:
